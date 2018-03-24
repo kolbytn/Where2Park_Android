@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="locations">
+        <item>Brigham Young University (Students)</item>
+    </array>
+    <array name="location0">
+        <item>
+            {\'dest\':\'Joseph Smith Building (JSB)\',
+            \'lat\':40.246050,
+            \'long\':-111.651480}
+        </item>
+        <item>
+            {\'dest\':\'Monte L. Bean Life Science Museum (MLBM)\',
+            \'lat\':40.245045,
+            \'long\':-111.649296}
+        </item>
+        <item>
+            {\'dest\':\'BYU Broadcasting (BYUB)\',
+            \'lat\':40.254801,
+            \'long\':-111.647555}
+        </item>
+        <item>
+            {\'dest\':\'BYU Store\',
+            \'lat\':40.248567,
+            \'long\':-111.648044}
+        </item>
+        <item>
+            {\'dest\':\'J. Reuben Clark Building (Law School, JRCB)\',
+            \'lat\':40.249842,
+            \'long\':-111.645264}
+        </item>
+        <item>
+            {\'dest\':\'W. W. Clyde Engineering Building (CB)\',
+            \'lat\':40.247100,
+            \'long\':-111.648076}
+        </item>
+        <item>
+            {\'dest\':\'Roland A. Crabtree Technology Building (CTB)\',
+            \'lat\':40.247760,
+            \'long\':-111.646403}
+        </item>
+        <item>
+            {\'dest\':\'Creamery on Ninth East (CONE)\',
+            \'lat\':40.250067,
+            \'long\':-111.643470}
+        </item>
+        <item>
+            {\'dest\':\'Franklin S. Harris Fine Arts Center (HFAC)\',
+            \'lat\':40.249923,
+            \'long\':-111.648147}
+        </item>
+        <item>
+            {\'dest\':\'Spencer W. Kimball Tower (SWKT)\',
+            \'lat\':40.247410,
+            \'long\':-111.651072}
+        </item>
+        <item>
+            {\'dest\':\'Jesse Knight Building (JKB)\',
+            \'lat\':40.250247,
+            \'long\':-111.650263}
+        </item>
+        <item>
+            {\'dest\':\'LaVell Edwards Stadium (LVES)\',
+            \'lat\':40.256859,
+            \'long\':-111.655524}
+        </item>
+        <item>
+            {\'dest\':\'Harold B. Lee Library (HBLL)\',
+            \'lat\':40.249279,
+            \'long\':-111.649335}
+        </item>
+        <item>
+            {\'dest\':\'Life Sciences Building (LSB)\',
+            \'lat\':40.245492,
+            \'long\':-111.649327}
+        </item>
+        <item>
+            {\'dest\':\'Karl G. Maeser Building (MSRB)\',
+            \'lat\':40.245387,
+            \'long\':-111.653543}
+        </item>
+        <item>
+            {\'dest\':\'Museum of Art (MOA)\',
+            \'lat\':40.250760,
+            \'long\':-111.647985}
+        </item>
+        <item>
+            {\'dest\':\'Stephen L. Richards Building (RB)\',
+            \'lat\':40.248266,
+            \'long\':-111.653939}
+        </item>
+        <item>
+            {\'dest\':\'Joseph F. Smith Building (JFSB)\',
+            \'lat\':40.248329,
+            \'long\':-111.650507}
+        </item>
+        <item>
+            {\'dest\':\'Abraham O. Smoot Administration Building (ASB)\',
+            \'lat\':40.250716,
+            \'long\':-111.649338}
+        </item>
+        <item>
+            {\'dest\':\'Talmage Building (TMCB)\',
+            \'lat\':40.249072,
+            \'long\':-111.650688}
+        </item>
+        <item>
+            {\'dest\':\'Ernest L. Wilkinson Student Center (WILK)\',
+            \'lat\':40.249062,
+            \'long\':-111.647015}
+        </item>
+    </array>
+    <array name="lots">
+        <item>{\'name\': \'34Y\', \'lat\':40.244746, \'long\':-111.655403}</item>
+        <item>{\'name\': \'37T\', \'lat\':40.249640, \'long\':-111.656133}</item>
+        <item>{\'name\': \'38Y\', \'lat\':40.247410, \'long\':-111.656214}</item>
+        <item>{\'name\': \'36Y\', \'lat\':40.246476, \'long\':-111.656439}</item>
+        <item>{\'name\': \'57Y\', \'lat\':40.243447, \'long\':-111.656475}</item>
+        <item>{\'name\': \'56Y\', \'lat\':40.244236, \'long\':-111.654159}</item>
+        <item>{\'name\': \'33Y\', \'lat\':40.244244, \'long\':-111.651166}</item>
+        <item>{\'name\': \'59Y\', \'lat\':40.244270, \'long\':-111.649239}</item>
+        <item>{\'name\': \'30Y\', \'lat\':40.245617, \'long\':-111.646032}</item>
+        <item>{\'name\': \'53Y\', \'lat\':40.248559, \'long\':-111.642725}</item>
+        <item>{\'name\': \'1430 North Y\', \'lat\':40.252956, \'long\':-111.648774}</item>
+        <item>{\'name\': \'24Y\', \'lat\':40.255522, \'long\':-111.643236}</item>
+        <item>{\'name\': \'50Y\', \'lat\':40.257439, \'long\':-111.645282}</item>
+        <item>{\'name\': \'20Y\', \'lat\':40.255023, \'long\':-111.648192}</item>
+        <item>{\'name\': \'19Y\', \'lat\':40.254935, \'long\':-111.649940}</item>
+        <item>{\'name\': \'49Y\', \'lat\':40.256254, \'long\':-111.652365}</item>
+        <item>{\'name\': \'48Y\', \'lat\':40.256031, \'long\':-111.654566}</item>
+        <item>{\'name\': \'45Y\', \'lat\':40.256054, \'long\':-111.657029}</item>
+        <item>{\'name\': \'47Y\', \'lat\':40.258169, \'long\':-111.652811}</item>
+        <item>{\'name\': \'58Y\', \'lat\':40.252131, \'long\':-111.656460}</item>
+        <item>{\'name\': \'37Y\', \'lat\':40.247972, \'long\':-111.656530}</item>
+    </array>
+</resources>

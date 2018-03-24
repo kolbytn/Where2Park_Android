@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Where 2 Park</string>
+    <string name="map_button">Map Button</string>
+    <string name="up_button">Up Button</string>
+    <string name="maps_key">AIzaSyDXm0zGpG_WJnxdyUDC_QoEcERJcpurgx0</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
